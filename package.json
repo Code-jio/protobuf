@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "google-protobuf": "^3.21.0",
+    "require": "^2.4.20"
+  }
+}
